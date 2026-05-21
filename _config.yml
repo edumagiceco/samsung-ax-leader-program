@@ -1,0 +1,76 @@
+title: 삼성전자판매 AI 워크샵
+description: 매장 직원을 위한 2일 하네스 실습 워크샵 가이드
+remote_theme: just-the-docs/just-the-docs
+
+# 사이트 URL (배포 후 갱신)
+url: ""
+baseurl: ""
+
+# 검색
+search_enabled: true
+search:
+  heading_level: 3
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s\-/]+/
+  rel_url: true
+  button: false
+
+# 색상
+color_scheme: light
+
+# 네비게이션 정렬 사용
+nav_sort: case_insensitive
+
+# 푸터
+footer_content: "© 2026 삼성전자판매 AI 워크샵 · MIT License"
+
+# 마지막 수정 시간
+last_edit_timestamp: true
+last_edit_time_format: "%Y-%m-%d"
+
+# 페이지 하단 링크
+gh_edit_link: false
+
+# 보조 영역
+aux_links:
+  "GitHub":
+    - "https://github.com/"
+
+# 마크다운
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+# 플러그인
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# 제외
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+
+# Just the Docs 콜아웃
+callouts_level: quiet
+callouts:
+  warning:
+    title: 주의
+    color: red
+  tip:
+    title: 팁
+    color: green
+  note:
+    title: 참고
+    color: purple
+  important:
+    title: 중요
+    color: yellow
