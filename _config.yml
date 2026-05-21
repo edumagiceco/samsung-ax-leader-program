@@ -3,8 +3,8 @@ description: 매장 직원을 위한 2일 하네스 실습 워크샵 가이드
 remote_theme: just-the-docs/just-the-docs
 
 # 사이트 URL (배포 후 갱신)
-url: ""
-baseurl: ""
+url: "https://edumagiceco.github.io"
+baseurl: "/sesc-ai-workshop"
 
 # 검색
 search_enabled: true
