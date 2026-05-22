@@ -7,7 +7,7 @@ permalink: /03-harness-anatomy/
 # 하네스 구조 이해
 {: .fs-8 }
 
-5/20에 본 3개 하네스가 모두 같은 구조입니다. **이 구조를 알면 본인 부서용 하네스를 직접 만들 수 있습니다.**
+5/20에 본 2개 하네스가 모두 같은 구조입니다. **이 구조를 알면 본인 부서용 하네스를 직접 만들 수 있습니다.**
 {: .fs-5 .fw-300 }
 
 ---
@@ -32,16 +32,19 @@ permalink: /03-harness-anatomy/
             └── skill.md       ← 특정 에이전트의 전문성 확장 (방법론)
 ```
 
-## 5/20에 본 3개 하네스 비교
+## 5/20에 본 2개 하네스 비교
 
-| 부위 | customer-support | real-estate-analyst | harness-lab |
-|---|---|---|---|
-| 도메인 | 시니어 고객 응대 매뉴얼 | 신규 출점 후보지역 검토 | 하네스 자체 생성 |
-| Agents 5명 | cs-analyst<br>cs-reviewer<br>escalation-manager<br>faq-builder<br>response-specialist | location-analyst<br>market-researcher<br>profitability-analyst<br>report-writer<br>risk-assessor | (실행 시 동적 생성) |
-| Skills | csat-analyzer<br>customer-support (오케스트레이터)<br>escalation-flowchart | cap-rate-calculator<br>location-scoring<br>real-estate-analyst (오케스트레이터) | (실행 시 동적 생성) |
-| 실행 명령 | `/customer-support [요청]` | `/real-estate-analyst [요청]` | `/harness-lab [도메인] 하네스 만들어줘` |
+| 부위 | customer-support | real-estate-analyst |
+|---|---|---|
+| 도메인 | 시니어 고객 응대 매뉴얼 | 신규 출점 후보지역 검토 |
+| Agents 5명 | cs-analyst<br>cs-reviewer<br>escalation-manager<br>faq-builder<br>response-specialist | location-analyst<br>market-researcher<br>profitability-analyst<br>report-writer<br>risk-assessor |
+| Skills | csat-analyzer<br>customer-support (오케스트레이터)<br>escalation-flowchart | cap-rate-calculator<br>location-scoring<br>real-estate-analyst (오케스트레이터) |
+| 실행 명령 | `/customer-support [요청]` | `/real-estate-analyst [요청]` |
 
 → **공통점**: 모두 도메인 전문가 4명 + reviewer 1명 + 오케스트레이터 1개 + 확장 스킬 2개 = **5+3 = 표준 패턴**
+
+{: .note }
+> **Harness-Lab**은 동일한 5+3 패턴을 따르되, 사용자가 시드 명령을 주면 새 하네스를 동적으로 생성하는 별도 도구입니다. 자세한 사용법은 [4. Harness-Lab](../04-harness-lab/) 참고.
 
 ---
 

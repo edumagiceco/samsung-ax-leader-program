@@ -30,10 +30,10 @@ permalink: /
 
 | # | 섹션 | 무엇이 들어 있나 |
 |---|---|---|
-| 1 | [Day 1 (5/20) 회고](./01-day1-recap/) | 5/20 흐름 한눈에 + 강의 자료 위치(PBT LMS) + 3개 하네스 다시 따라하기 명령어 카드 |
+| 1 | [Day 1 (5/20) 회고](./01-day1-recap/) | 5/20 흐름 한눈에 + 강의 자료 위치(PBT LMS) + 2개 하네스 다시 따라하기 명령어 카드 |
 | 2 | [개발환경 설정](./02-environment/) | Claude Desktop · Cowork · Code · 환경변수 · 트러블슈팅 (Win11) |
 | 3 | [하네스 구조 이해](./03-harness-anatomy/) | `.claude/` 폴더 구조 · agents · skills · CLAUDE.md |
-| 4 | [Harness-Lab](./04-harness-lab/) | 하네스를 생성하는 하네스 (5/20 세 번째 실습) |
+| 4 | [Harness-Lab](./04-harness-lab/) | 하네스를 생성하는 하네스 (본인 부서용 하네스 자동 생성 도구) |
 | 5 | [부서별 영감 라이브러리](./06-team-inspiration/) | 6 카테고리 × 5사례 = 30개 참고용 하네스 사례 |
 | 6 | [부록](./09-appendix/) | 강의장 · 운영 채널 |
 | 7 | [AX 과제 브리프 안내](./07-ax-brief-workbook/) | 5/27 발표 7개 항목에 대한 일반 안내 |

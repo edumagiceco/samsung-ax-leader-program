@@ -19,7 +19,7 @@ permalink: /01-day1-recap/
 | 10:00-10:15 | 오리엔테이션 + 데이터 보안 | 최재규 · 삼성전자판매 | PBT LMS |
 | 10:15-12:30 | AI 기술 트렌드 강의 5챕터 + AI 하네스 A to Z | 최재규 | PBT LMS (임원교육 오전세션 PDF) |
 | 14:00-15:30 | **Claude Cowork 실습** (AI 비서 · 영수증 정리) | 권상윤 | 본인 노트북 결과물 + PBT LMS |
-| 15:40-17:50 | **Claude Code 하네스 실습 3종** ⭐ | 안병희 · 최재규 | 본인 PC `C:\claude-practice\` |
+| 15:40-17:50 | **Claude Code 하네스 실습 2종** ⭐ | 안병희 · 최재규 | 본인 PC `C:\claude-practice\` |
 | 17:50-18:00 | AI 업무 정의서 워크시트 안내 | 최재규 | [→ 7. AX 과제 브리프 안내](../07-ax-brief-workbook/) |
 
 ## 강의 자료는 어디에?
@@ -33,7 +33,7 @@ permalink: /01-day1-recap/
 
 ---
 
-## 5/20에 사용한 3개 하네스 — 다시 따라하기
+## 5/20에 사용한 2개 하네스 — 다시 따라하기
 
 본인 PC `C:\claude-practice\`에 이미 다운로드되어 있을 겁니다. 만약 없으면 [2. 개발환경 설정](../02-environment/)을 보세요.
 
@@ -61,18 +61,11 @@ permalink: /01-day1-recap/
 모드: Sonnet 4.6 · 작업량 낮음
 ```
 
-### 🟣 실습 3: harness-lab ⭐
-하네스를 생성하는 하네스 — **5/27 본인 하네스 MVP 제작의 핵심 도구**
-
-```
-폴더: C:\claude-practice\harness-lab
-실행: /harness-lab [본인이 만들고 싶은 하네스 한 줄 설명]
-산출물: harness-lab 폴더 안에 새 하네스 자동 생성
-구성: 실행 시 동적 생성 (도메인에 맞는 5+3 자동 설계)
-모드: 자동 모드 · Opus 4.7 1M · 작업량 매우 높음
-```
-
-→ Harness-Lab 풀가이드는 별도 섹션: [→ 4. Harness-Lab](../04-harness-lab/)
+{: .note }
+> **Harness-Lab은 별도 도구입니다.**
+> 5/20에 진행한 실습은 위 2개(customer-support · real-estate-analyst)이며, **Harness-Lab은 5/27 본인 부서용 하네스 MVP 제작 시 활용 가능한 도구**로 별도 섹션에서 다룹니다.
+>
+> [→ 4. Harness-Lab으로](../04-harness-lab/)
 
 ---
 
