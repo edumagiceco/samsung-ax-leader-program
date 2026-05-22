@@ -35,7 +35,7 @@ permalink: /
 ## 지금 바로 해보면 좋은 것 3가지
 
 ### 🟢 오늘 (5/20 저녁, 15분)
-- [1.5 customer-support 실습 다시 보기](./01-day1-recap/) — 오후에 했던 그 실습
+- [5/20에 한 일·자료 위치 안내](./01-day1-recap/) — 5/20 흐름과 3개 하네스 다시 따라하기 위치
 - 카톡 오픈채팅방 참여 + 막혔던 부분 메모 한 줄 올리기
 
 ### 🟡 이번 주 (5/21-25)
@@ -53,7 +53,7 @@ permalink: /
 
 | # | 섹션 | 무엇이 들어 있나 |
 |---|---|---|
-| 1 | [Day 1 (5/20) 회고](./01-day1-recap/) | 오전 강의 5챕터 + Cowork 실습 2개 + Code 실습 3개 (customer-support · real-estate-analyst · harness-lab) |
+| 1 | [Day 1 (5/20) 안내](./01-day1-recap/) | 5/20 흐름 한눈에 + 강의 자료 위치 (PBT LMS) + 3개 하네스 다시 따라하기 명령어 카드 |
 | 2 | [환경 다시 점검](./02-environment/) | Claude Desktop·Cowork·Code·환경변수·트러블슈팅 (Win11) |
 | 3 | [하네스 구조 이해](./03-harness-anatomy/) | `.claude/` 폴더 구조 · agents · skills · CLAUDE.md 작성법 |
 | 4 | [Harness-Lab](./04-harness-lab/) ⭐ | 본인 부서용 하네스를 자동 생성하는 도구 + 6팀별 시드 명령 |

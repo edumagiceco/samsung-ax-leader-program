@@ -1,65 +1,93 @@
 ---
-title: 1. Day 1 (5/20) 회고
+title: 1. Day 1 (5/20) 안내
 nav_order: 2
-has_children: true
 permalink: /01-day1-recap/
 ---
 
-# Day 1 (5/20) 회고
+# Day 1 (5/20) 안내
 {: .fs-8 }
 
-오전 5챕터 강의 + Cowork 실습 2개 + Code 실습 3개 — **본인 책상에서 다시 따라할 수 있도록** 정리합니다.
+5/20에 무엇을 했는지 한눈에 보기 + 다시 따라하기 위한 위치 안내.
 {: .fs-5 .fw-300 }
 
 ---
 
 ## 5/20 하루 흐름
 
-| 시간 | 무엇을 했나 | 강사 |
-|---|---|---|
-| 10:00-10:05 | 오리엔테이션 | 최재규 |
-| 10:05-10:15 | 데이터 보안 | 삼성전자판매 |
-| 10:15-11:15 | 오전 강의 5챕터 (AI 기술 트렌드 & 산업별 도입 동향) | 최재규 |
-| 11:30-12:30 | AI 하네스 A to Z + Claude AI 직원 사용하기 | 최재규 |
-| 12:30-14:00 | 점심 (더존푸드 성수역점) | — |
-| 14:00-15:30 | **Claude Cowork 실습 2개** (나만의 AI 비서 · 영수증 정리 AI) | 권상윤 |
-| 15:40-16:40 | **Claude Code 실습 1**: customer-support 하네스 | 안병희 |
-| 16:50-17:50 | **Claude Code 실습 2**: real-estate-analyst 하네스 | 안병희 |
-| 17:50-18:00 | 마무리 + AI 업무 정의서 안내 | 최재규 |
+| 시간 | 무엇을 했나 | 강사 | 자료 위치 |
+|---|---|---|---|
+| 10:00-10:15 | 오리엔테이션 + 데이터 보안 | 최재규 · 삼성전자판매 | PBT LMS |
+| 10:15-12:30 | AI 기술 트렌드 강의 5챕터 + AI 하네스 A to Z | 최재규 | PBT LMS (임원교육 오전세션 PDF) |
+| 14:00-15:30 | **Claude Cowork 실습** (AI 비서 · 영수증 정리) | 권상윤 | 본인 노트북 결과물 + PBT LMS |
+| 15:40-17:50 | **Claude Code 하네스 실습 3종** ⭐ | 안병희 · 최재규 | 본인 PC `C:\claude-practice\` |
+| 17:50-18:00 | AI 업무 정의서 워크시트 안내 | 최재규 | [→ 7. AX 과제 브리프 워크북](../07-ax-brief-workbook/) |
 
-## 어디부터 다시 볼까요?
+## 강의 자료는 어디에?
 
-### 강의 회고 (오전)
-
-- [1.1 왜 지금 AI Native인가](./morning-lecture/why-ai-native/) — 생성형 AI · 에이전틱 진화 · IQ 145 AI
-- [1.2 자율형 Agent 시대의 도래](./morning-lecture/autonomous-agent/) — 도구→직원→팀 · Andrew Ng 1:1 특공대
-- [1.3 AI Native 운영 구조](./morning-lecture/ai-native-ops/) — AgentWorker · MAX 솔루션 3종 (Studio/Tutor/Cast)
-- [**1.4 실제 업무 활용 사례 3종**](./morning-lecture/real-cases/) ⭐ — 고객 상담·신규 출점·주간 Sales Command Board
-- [1.5 삼성전자판매 적용 방법](./morning-lecture/sesc-adoption/) — 강사 메시지: 본인 손으로 만들기
-
-### Cowork 실습 (14:00-15:30)
-
-- [실습 1: 나만의 AI 비서](./cowork-lab/ai-assistant/) — 주식·판매내역 카톡 알림
-- [실습 2: 영수증 정리 AI](./cowork-lab/receipt-organizer/) — 자동 분류·기록
-
-### Code 실습 (15:40-17:50)
-
-- [실습 1: customer-support 하네스](./code-lab/customer-support/) — 시니어 고객 응대 매뉴얼 자동화
-- [실습 2: real-estate-analyst 하네스](./code-lab/real-estate-analyst/) — 신규 출점 후보지역 검토
-- [**Harness-Lab은 별도 섹션으로**](../04-harness-lab/) — Day 2 본인 하네스 만들기의 핵심 도구
-
-### 마무리
-
-- [AI 업무 정의서 워크시트 안내](./wrap-up/) — 1주일간 본인이 작성해 와야 할 출발점
+{: .important }
+> **5/20 강의 슬라이드·실습 가이드·오리엔테이션 자료는 PBT LMS에 있습니다.**
+>
+> [https://pbt.co.kr/](https://pbt.co.kr/) → 'AX 리더 실전 프로그램 with 삼성전자판매' 캠페인 → 좌측 '캠페인 활동'
+>
+> 이 사이트는 회고가 아니라 **본인이 5/27까지 본인 일에 적용하기 위한 작업실**입니다.
 
 ---
 
-## 이 회고를 보는 가장 좋은 방법
+## 5/20에 사용한 3개 하네스 — 다시 따라하기
 
-1. **다시 따라하기**: 각 실습 페이지를 켜놓고 본인 노트북에서 그대로 실행
-2. **명령어는 복사**: 모든 프롬프트·명령어에 복사 버튼이 있습니다
-3. **막히면 환경 확인**: [2. 환경 다시 점검](../02-environment/)으로 이동
-4. **본인 일로 변환**: 실습이 끝나면 [7. AX 과제 브리프 워크북](../07-ax-brief-workbook/)에서 본인 일에 맞게 변형
+본인 PC `C:\claude-practice\`에 이미 다운로드되어 있을 겁니다. 만약 없으면 [2. 환경 다시 점검](../02-environment/)을 보세요.
 
-{: .note }
-> 강의 슬라이드 원문은 PBT LMS에서 다운로드받을 수 있습니다. 이 사이트는 핵심 내용 + 본인이 다시 따라할 수 있게 재구성한 버전입니다.
+### 🔵 실습 1: customer-support
+시니어 고객 응대 매뉴얼 자동화
+
+```
+폴더: C:\claude-practice\customer-support
+실행: /customer-support 6,70대 스마트폰 고객을 위한 응대 매뉴얼 작성해줘
+산출물: customer-support\_workspace\ 안의 3개 파일
+구성: 5 agents (cs-analyst, cs-reviewer, escalation-manager, faq-builder, response-specialist)
+     + 3 skills (csat-analyzer, customer-support, escalation-flowchart)
+모드: Sonnet 4.6 · 작업량 낮음
+```
+
+### 🟢 실습 2: real-estate-analyst
+신규 출점 후보지역 검토
+
+```
+폴더: C:\claude-practice\real-estate-analyst
+실행: /real-estate-analyst 서울 성수동에 삼성스토어 입점을 기획하고 있어. 입지분석과 리스크 평가를 진행해줘
+산출물: real-estate-analyst\_workspace\ 안의 4개 파일
+구성: 5 agents (location-analyst, market-researcher, profitability-analyst, report-writer, risk-assessor)
+     + 3 skills (cap-rate-calculator, location-scoring, real-estate-analyst)
+모드: Sonnet 4.6 · 작업량 낮음
+```
+
+### 🟣 실습 3: harness-lab ⭐
+하네스를 생성하는 하네스 — **5/27 본인 하네스 MVP 제작의 핵심 도구**
+
+```
+폴더: C:\claude-practice\harness-lab
+실행: /harness-lab [본인이 만들고 싶은 하네스 한 줄 설명]
+산출물: harness-lab 폴더 안에 새 하네스 자동 생성
+구성: 실행 시 동적 생성 (도메인에 맞는 5+3 자동 설계)
+모드: 자동 모드 · Opus 4.7 1M · 작업량 매우 높음
+```
+
+→ Harness-Lab 풀가이드는 별도 섹션: [→ 4. Harness-Lab](../04-harness-lab/)
+
+---
+
+## 다음 단계
+
+5/20을 무사히 마치셨다면 본인 일에 적용하는 단계로 넘어가세요.
+
+| 다음 액션 | 어디로 |
+|---|---|
+| 환경이 갑자기 안 될 때 | [2. 환경 다시 점검](../02-environment/) |
+| 하네스 구조 이해하고 싶을 때 | [3. 하네스 구조 이해](../03-harness-anatomy/) |
+| 본인 부서용 하네스 만들기 | [4. Harness-Lab ⭐](../04-harness-lab/) |
+| 1주일 작업 일정 따라가기 | [5. 중간 지원 (5/21-26)](../05-mid-week-support/) |
+| 내가 가져갈 일 1장 정리 | [7. AX 과제 브리프 워크북](../07-ax-brief-workbook/) |
+
+---
+
+[← 홈](../) · [환경 점검으로 →](../02-environment/)

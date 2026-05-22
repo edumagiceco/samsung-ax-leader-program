@@ -14,8 +14,8 @@
 ## 사이트 구조 (9개 섹션)
 
 ```
-1. Day 1 (5/20) 회고
-   - 오전 강의 5챕터 + Cowork 실습 2 + Code 실습 3 (customer-support · real-estate-analyst · harness-lab)
+1. Day 1 (5/20) 안내
+   - 5/20 흐름 한눈에 + 강의 자료(PBT LMS) 안내 + 3개 하네스 다시 따라하기 명령어 카드 (1페이지)
 2. 환경 다시 점검 (Win11)
 3. 하네스 구조 이해
 4. Harness-Lab — 본인 하네스 만들기 ⭐
@@ -41,10 +41,10 @@ bundle exec jekyll serve
 ## 작업 진행 상황 (Phase)
 
 - ✅ Phase 1: 레포명 변경 + IA 재설계 + 새 톤 적용한 9개 섹션 스캐폴드
-- ⏳ Phase 2: Day 1 회고 풀콘텐츠 작성 (강의 5챕터 + Cowork 실습 2 + Code 실습 3)
-- ⏳ Phase 3: 중간 지원 6일 가이드 + AX 과제 워크북 8쪽 + Day 2 발표 템플릿
-- ⏳ Phase 4: 부서별 영감 라이브러리 30개 카드 (harness-100 재편)
-- ⏳ Phase 5: UI/UX 마감 + 운영 채널 URL + 배포 검증
+- ⏳ Phase 2: Harness-Lab 풀가이드 + 중간 지원 6일 + AX 워크북 8쪽 + Day 2 발표 7구조
+- ⏳ Phase 3: 부서별 영감 라이브러리 30개 카드 (harness-100 재편)
+- ⏳ Phase 4: UI/UX 마감 + 배포 검증
+- (스킵) Day 1 회고 풀콘텐츠 — 강의 자료는 PBT LMS, 실습 결과물은 수강생 노트북에 있음
 
 ## 라이선스
 
