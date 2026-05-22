@@ -21,7 +21,7 @@ permalink: /
 
 | 일자 | 세션 |
 |---|---|
-| 5/20 (수) | Day 1 — AI 기술 트렌드 강의 + Claude Cowork 실습 + Claude Code 하네스 실습 3종 |
+| 5/20 (수) | Day 1 — AI 기술 트렌드 강의 + Claude Cowork 실습 + Claude Code 하네스 실습 2종 |
 | 5/27 (수) | Day 2 — 팀별 AX 프로젝트 수행 + 발표 + 회고 |
 
 ---
