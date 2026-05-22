@@ -56,7 +56,7 @@ permalink: /02-environment/
 
 ### 7단계 — 실습용 하네스 다시 다운로드
 
-만약 위 3개 폴더가 없거나 손상되었다면:
+위 3개 폴더가 없거나 손상되었을 때 재다운로드 방법:
 
 ```
 https://github.com/MagicecoleAI/max-samsung-harness-samples.git 에서 프로젝트 다운로드해줘
