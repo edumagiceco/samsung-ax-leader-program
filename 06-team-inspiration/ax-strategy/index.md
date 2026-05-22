@@ -26,11 +26,11 @@ AX G에서 참고할 수 있는 5개 하네스 사례.
 
 | # | 사례 | 한 줄 설명 |
 |---|---|---|
-| [47](./47-strategy-framework/) | strategy-framework | OKR·BSC·SWOT 등 전략 프레임워크 통합 작성 |
-| [52](./52-scenario-planner/) | scenario-planner | 핵심 변수 기반 시나리오 매트릭스·영향 분석 |
-| [88](./88-risk-register/) | risk-register | 리스크 식별·평가·대응 전략·모니터링 대장 |
-| [64](./64-knowledge-base-builder/) | knowledge-base-builder | 조직 지식관리 체계·위키·검색 인덱스 |
-| [99](./99-sustainability-audit/) | sustainability-audit | ESG·지속가능성 감사·개선 계획 |
+| [47](./47-strategy-framework) | strategy-framework | OKR·BSC·SWOT 등 전략 프레임워크 통합 작성 |
+| [52](./52-scenario-planner) | scenario-planner | 핵심 변수 기반 시나리오 매트릭스·영향 분석 |
+| [88](./88-risk-register) | risk-register | 리스크 식별·평가·대응 전략·모니터링 대장 |
+| [64](./64-knowledge-base-builder) | knowledge-base-builder | 조직 지식관리 체계·위키·검색 인덱스 |
+| [99](./99-sustainability-audit) | sustainability-audit | ESG·지속가능성 감사·개선 계획 |
 
 ---
 

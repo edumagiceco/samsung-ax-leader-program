@@ -27,11 +27,11 @@ permalink: /06-team-inspiration/sales-stores/
 
 | # | 사례 | 한 줄 설명 |
 |---|---|---|
-| [48](./48-sales-enablement/) | sales-enablement | 고객 분석·제안서·프레젠테이션·팔로업 통합 |
-| [50](./50-pricing-strategy/) | pricing-strategy | 원가·경쟁가·가치 기반 가격 시뮬레이션 |
-| [44](./44-market-research/) | market-research | 산업·경쟁·소비자·트렌드 통합 시장 조사 |
-| [49](./49-customer-support/) | customer-support | FAQ·응대 매뉴얼·에스컬레이션 (5/20 실습과 동일 도메인의 변형) |
-| [12](./12-advertising-campaign/) | advertising-campaign | 타깃 분석·카피·크리에이티브·미디어 플랜 |
+| [48](./48-sales-enablement) | sales-enablement | 고객 분석·제안서·프레젠테이션·팔로업 통합 |
+| [50](./50-pricing-strategy) | pricing-strategy | 원가·경쟁가·가치 기반 가격 시뮬레이션 |
+| [44](./44-market-research) | market-research | 산업·경쟁·소비자·트렌드 통합 시장 조사 |
+| [49](./49-customer-support) | customer-support | FAQ·응대 매뉴얼·에스컬레이션 (5/20 실습과 동일 도메인의 변형) |
+| [12](./12-advertising-campaign) | advertising-campaign | 타깃 분석·카피·크리에이티브·미디어 플랜 |
 
 ---
 

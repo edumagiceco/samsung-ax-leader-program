@@ -27,11 +27,11 @@ permalink: /06-team-inspiration/info-security/
 
 | # | 사례 | 한 줄 설명 |
 |---|---|---|
-| [28](./28-security-audit/) | security-audit | 취약점 스캔·코드 분석·침투 테스트·개선 권고 |
-| [67](./67-compliance-checker/) | compliance-checker | 법률 매핑·현황 진단·갭 분석·개선 계획 |
-| [69](./69-privacy-engineer/) | privacy-engineer | GDPR/PIPA·PIA·동의서·프로세스 설계 |
-| [27](./27-data-pipeline/) | data-pipeline | 수집·변환·적재·품질 검증·모니터링 |
-| [26](./26-infra-as-code/) | infra-as-code | IaC 설계·보안·비용 최적화·드리프트 감지 |
+| [28](./28-security-audit) | security-audit | 취약점 스캔·코드 분석·침투 테스트·개선 권고 |
+| [67](./67-compliance-checker) | compliance-checker | 법률 매핑·현황 진단·갭 분석·개선 계획 |
+| [69](./69-privacy-engineer) | privacy-engineer | GDPR/PIPA·PIA·동의서·프로세스 설계 |
+| [27](./27-data-pipeline) | data-pipeline | 수집·변환·적재·품질 검증·모니터링 |
+| [26](./26-infra-as-code) | infra-as-code | IaC 설계·보안·비용 최적화·드리프트 감지 |
 
 ---
 

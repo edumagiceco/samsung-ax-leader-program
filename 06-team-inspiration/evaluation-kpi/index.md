@@ -26,11 +26,11 @@ permalink: /06-team-inspiration/evaluation-kpi/
 
 | # | 사례 | 한 줄 설명 |
 |---|---|---|
-| [42](./42-bi-dashboard/) | bi-dashboard | 데이터 웨어하우스·KPI 정의·시각화·자동 보고 |
-| [82](./82-report-generator/) | report-generator | 데이터 수집·분석·시각화·집필·요약 |
-| [93](./93-feedback-analyzer/) | feedback-analyzer | 고객·직원 피드백 수집·감성·주제·인사이트 |
-| [87](./87-crisis-communication/) | crisis-communication | 상황 파악·메시지 전략·보도자료·Q&A·모니터링 |
-| [32](./32-data-analysis/) | data-analysis | 탐색·정제·통계·시각화·보고서 |
+| [42](./42-bi-dashboard) | bi-dashboard | 데이터 웨어하우스·KPI 정의·시각화·자동 보고 |
+| [82](./82-report-generator) | report-generator | 데이터 수집·분석·시각화·집필·요약 |
+| [93](./93-feedback-analyzer) | feedback-analyzer | 고객·직원 피드백 수집·감성·주제·인사이트 |
+| [87](./87-crisis-communication) | crisis-communication | 상황 파악·메시지 전략·보도자료·Q&A·모니터링 |
+| [32](./32-data-analysis) | data-analysis | 탐색·정제·통계·시각화·보고서 |
 
 ---
 

@@ -28,11 +28,11 @@ permalink: /06-team-inspiration/hr-safety-support/
 
 | # | 사례 | 한 줄 설명 |
 |---|---|---|
-| [61](./61-competency-modeler/) | competency-modeler | 직무 분석·역량 사전·평가 루브릭·개발 계획 |
-| [90](./90-hiring-pipeline/) | hiring-pipeline | JD 작성·소싱·스크리닝·면접·평가·오퍼 |
-| [91](./91-onboarding-system/) | onboarding-system | 신규 입사자 30-60-90일 체크리스트·교육·멘토 |
-| [83](./83-sop-writer/) | sop-writer | 프로세스 분석·절차서·체크리스트·교육 자료 |
-| [84](./84-meeting-strategist/) | meeting-strategist | 안건 설계·배경 자료·의사결정 프레임워크·회의록 |
+| [61](./61-competency-modeler) | competency-modeler | 직무 분석·역량 사전·평가 루브릭·개발 계획 |
+| [90](./90-hiring-pipeline) | hiring-pipeline | JD 작성·소싱·스크리닝·면접·평가·오퍼 |
+| [91](./91-onboarding-system) | onboarding-system | 신규 입사자 30-60-90일 체크리스트·교육·멘토 |
+| [83](./83-sop-writer) | sop-writer | 프로세스 분석·절차서·체크리스트·교육 자료 |
+| [84](./84-meeting-strategist) | meeting-strategist | 안건 설계·배경 자료·의사결정 프레임워크·회의록 |
 
 ---
 

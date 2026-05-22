@@ -26,11 +26,11 @@ permalink: /06-team-inspiration/finance/
 
 | # | 사례 | 한 줄 설명 |
 |---|---|---|
-| [51](./51-investor-report/) | investor-report | 재무 실적·KPI·시장 동향·전략 업데이트 |
-| [53](./53-financial-modeler/) | financial-modeler | 수익 모델·비용 구조·시나리오·밸류에이션 |
-| [75](./75-tax-calculator/) | tax-calculator | 소득 분석·공제 최적화·세액 계산·신고 자료 |
-| [94](./94-audit-report/) | audit-report | 감사 범위·체크리스트·발견 사항·개선 권고 |
-| [95](./95-procurement-docs/) | procurement-docs | 요구사항·벤더 비교·평가 기준·계약 검토 |
+| [51](./51-investor-report) | investor-report | 재무 실적·KPI·시장 동향·전략 업데이트 |
+| [53](./53-financial-modeler) | financial-modeler | 수익 모델·비용 구조·시나리오·밸류에이션 |
+| [75](./75-tax-calculator) | tax-calculator | 소득 분석·공제 최적화·세액 계산·신고 자료 |
+| [94](./94-audit-report) | audit-report | 감사 범위·체크리스트·발견 사항·개선 권고 |
+| [95](./95-procurement-docs) | procurement-docs | 요구사항·벤더 비교·평가 기준·계약 검토 |
 
 ---
 

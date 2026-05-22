@@ -46,6 +46,13 @@ aux_links:
     - "https://github.com/edumagiceco/samsung-ax-leader-program"
 aux_links_new_tab: true
 
+# 모든 페이지 기본 레이아웃
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
 # 마크다운
 markdown: kramdown
 kramdown:
