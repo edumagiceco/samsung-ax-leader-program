@@ -1,12 +1,12 @@
 ---
-title: 6.2 영업·매장·고객
-parent: 6. 부서별 영감 라이브러리
+title: 5.2 영업·매장·고객
+parent: 5. 부서별 영감 라이브러리
 nav_order: 2
 has_children: true
 permalink: /06-team-inspiration/sales-stores/
 ---
 
-# 6.2 영업·매장·고객
+# 5.2 영업·매장·고객
 {: .fs-7 }
 
 영업 8지점·CE/백화점/Retail 전략에서 참고할 수 있는 5개 하네스 사례.

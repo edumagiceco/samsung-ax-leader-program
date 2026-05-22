@@ -20,7 +20,7 @@ permalink: /01-day1-recap/
 | 10:15-12:30 | AI 기술 트렌드 강의 5챕터 + AI 하네스 A to Z | 최재규 | PBT LMS (임원교육 오전세션 PDF) |
 | 14:00-15:30 | **Claude Cowork 실습** (AI 비서 · 영수증 정리) | 권상윤 | 본인 노트북 결과물 + PBT LMS |
 | 15:40-17:50 | **Claude Code 하네스 실습 3종** ⭐ | 안병희 · 최재규 | 본인 PC `C:\claude-practice\` |
-| 17:50-18:00 | AI 업무 정의서 워크시트 안내 | 최재규 | [→ 7. AX 과제 브리프 워크북](../07-ax-brief-workbook/) |
+| 17:50-18:00 | AI 업무 정의서 워크시트 안내 | 최재규 | [→ 6. AX 과제 브리프 워크북](../07-ax-brief-workbook/) |
 
 ## 강의 자료는 어디에?
 
@@ -85,8 +85,9 @@ permalink: /01-day1-recap/
 | 환경이 갑자기 안 될 때 | [2. 환경 다시 점검](../02-environment/) |
 | 하네스 구조 이해하고 싶을 때 | [3. 하네스 구조 이해](../03-harness-anatomy/) |
 | 본인 부서용 하네스 만들기 | [4. Harness-Lab ⭐](../04-harness-lab/) |
-| 1주일 작업 일정 따라가기 | [5. 중간 지원 (5/21-26)](../05-mid-week-support/) |
-| 내가 가져갈 일 1장 정리 | [7. AX 과제 브리프 워크북](../07-ax-brief-workbook/) |
+| 부서별 참고 사례 둘러보기 | [5. 부서별 영감 라이브러리](../06-team-inspiration/) |
+| 5/27 발표 7개 항목 안내 | [6. AX 과제 브리프 안내](../07-ax-brief-workbook/) |
+| 5/27 일정·평가 정보 | [7. Day 2 (5/27) 미리보기](../08-day2-preview/) |
 
 ---
 

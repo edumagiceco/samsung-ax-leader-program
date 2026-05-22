@@ -1,12 +1,12 @@
 ---
-title: 6.5 정보·보안·인프라
-parent: 6. 부서별 영감 라이브러리
+title: 5.5 정보·보안·인프라
+parent: 5. 부서별 영감 라이브러리
 nav_order: 5
 has_children: true
 permalink: /06-team-inspiration/info-security/
 ---
 
-# 6.5 정보·보안·인프라
+# 5.5 정보·보안·인프라
 {: .fs-7 }
 
 정보전략·정보보호 G에서 참고할 수 있는 5개 하네스 사례.

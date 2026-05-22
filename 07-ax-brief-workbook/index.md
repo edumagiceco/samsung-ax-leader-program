@@ -1,6 +1,6 @@
 ---
-title: 7. AX 과제 브리프 안내
-nav_order: 8
+title: 6. AX 과제 브리프 안내
+nav_order: 7
 permalink: /07-ax-brief-workbook/
 ---
 
@@ -69,20 +69,6 @@ permalink: /07-ax-brief-workbook/
 
 ---
 
-## 운영자 멘토링 활용
-
-5/22-25 사이 1:1 멘토링이 운영됩니다.
-
-| 멘토 | 전문 영역 |
-|---|---|
-| 최재규 | 전체 진행 · 하네스 개념 · AX 과제 정의 |
-| 권상윤 | Claude Cowork · 실무 자동화 |
-| 안병희 | Claude Code · 하네스 제작 (customer-support · real-estate-analyst) |
-
-신청: [카카오 오픈채팅방](https://open.kakao.com/o/g0ligxvi)
-
----
-
 ## 평가 기준 (참고)
 
 5/27 발표는 다음 3가지로 평가됩니다.
@@ -91,15 +77,15 @@ permalink: /07-ax-brief-workbook/
 - **완성도**: 과제 정의부터 발표까지 완성도 있게 수행되었다
 - **혁신성**: 과제 주제가 차별화되고 참신한 시도를 담고 있다
 
-[자세한 평가·일정 안내는 8. Day 2 미리보기로](../08-day2-preview/)
+[자세한 평가·일정 안내는 7. Day 2 미리보기로](../08-day2-preview/)
 
 ---
 
 ## 관련 정보
 
 - [4. Harness-Lab](../04-harness-lab/) — 본인 팀 도메인의 하네스를 생성할 수 있는 도구
-- [6. 부서별 영감 라이브러리](../06-team-inspiration/) — 부서별 참고할 만한 하네스 사례
-- [8. Day 2 (5/27) 미리보기](../08-day2-preview/) — 5/27 시간표·평가·시상
+- [5. 부서별 영감 라이브러리](../06-team-inspiration/) — 부서별 참고할 만한 하네스 사례
+- [7. Day 2 (5/27) 미리보기](../08-day2-preview/) — 5/27 시간표·평가·시상
 
 ---
 

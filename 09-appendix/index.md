@@ -1,13 +1,13 @@
 ---
-title: 9. 부록
-nav_order: 10
+title: 8. 부록
+nav_order: 9
 permalink: /09-appendix/
 ---
 
 # 부록
 {: .fs-8 }
 
-강의장 안내·운영 채널·강사진 정보
+강의장 안내·운영 채널 정보
 {: .fs-5 .fw-300 }
 
 ---
@@ -49,41 +49,9 @@ permalink: /09-appendix/
 - 프로필명 형식: `[부서명] 이름` (예: `[AX G] 홍길동`)
 - 환경 트러블·일상 질문은 이곳에
 
-### 🎓 1:1 멘토링 (5/22-25)
-- 신청: 카카오 오픈채팅방에 멘토링 요청 메시지
-- 멘토진:
-  - 최재규 (전체 / Day 1 오전·마무리 / Harness 개념)
-  - 권상윤 (Claude Cowork · AI 비서 / 영수증 실습)
-  - 안병희 (Claude Code · customer-support / real-estate-analyst)
-
-### 📦 MAX Studio — 맞춤 교재 요청
-- 본인 과제에 맞춤형 참고자료가 필요할 때
-- 운영자(카카오톡)로 요청 → MAX Studio가 1시간 안에 PDF·PPT·EPUB 동시 생성
-- 예: "비스포크 가전 출점 후보지역 분석 방법론" → 맞춤 교재 자동 생성
-
 ### 📋 평가 폼
 - 발표 평가 + Reflection: [https://forms.gle/sLKXcSMmV4W4er3X9](https://forms.gle/sLKXcSMmV4W4er3X9)
 - 2일차 만족도 조사: [https://forms.gle/hEqcBjXSmh7JUhrTA](https://forms.gle/hEqcBjXSmh7JUhrTA)
-
----
-
-## 강사진
-
-### 최재규 (magicecole 대표 강사)
-- **개발 경력**: 임베디드 TV, 스마트폰, 클라우드, 사물인터넷, 생성형 AI
-- **강의 경력**: 한양사이버대학교 AI 응용SW, 서울대학교 AI4PM
-- **집필·활동**: IT 서적 15권 및 다수 논문, 구글개발자그룹
-- **이 프로그램에서**: 전체 진행 + Day 1 오전 강의 5챕터 + Day 2 마무리
-
-### 권상윤
-- **이 프로그램에서**: Claude Cowork 실습 (5/20 14:00-15:30)
-  - 실습 1: 나만의 AI 비서 만들기 (주식·판매내역 카톡 알림)
-  - 실습 2: 영수증 정리 AI 만들기
-
-### 안병희
-- **이 프로그램에서**: Claude Code 하네스 실습 (5/20 15:40-17:50)
-  - 실습 1: customer-support 하네스
-  - 실습 2: real-estate-analyst 하네스
 
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: 6. 부서별 영감 라이브러리
-nav_order: 7
+title: 5. 부서별 영감 라이브러리
+nav_order: 6
 has_children: true
 permalink: /06-team-inspiration/
 ---
@@ -27,12 +27,12 @@ permalink: /06-team-inspiration/
 
 | 카테고리 | 관련 부서 | 사례 수 |
 |---|---|---|
-| [6.1 AX 추진·전략](./ax-strategy/) | AX G | 5개 |
-| [6.2 영업·매장·고객](./sales-stores/) | 영업팀 8지점·CE/백화점/Retail 전략 | 5개 |
-| [6.3 재경·재무·감사](./finance/) | 재경팀 | 5개 |
-| [6.4 HR·안전·지원](./hr-safety-support/) | 인사·안전환경·지원팀 | 5개 |
-| [6.5 정보·보안·인프라](./info-security/) | 정보전략·정보보호 G | 5개 |
-| [6.6 경영진단·KPI](./evaluation-kpi/) | 경영진단 G | 5개 |
+| [5.1 AX 추진·전략](./ax-strategy/) | AX G | 5개 |
+| [5.2 영업·매장·고객](./sales-stores/) | 영업팀 8지점·CE/백화점/Retail 전략 | 5개 |
+| [5.3 재경·재무·감사](./finance/) | 재경팀 | 5개 |
+| [5.4 HR·안전·지원](./hr-safety-support/) | 인사·안전환경·지원팀 | 5개 |
+| [5.5 정보·보안·인프라](./info-security/) | 정보전략·정보보호 G | 5개 |
+| [5.6 경영진단·KPI](./evaluation-kpi/) | 경영진단 G | 5개 |
 
 **총 30개 참고 사례** (작성 예정)
 
@@ -71,4 +71,4 @@ permalink: /06-team-inspiration/
 
 ---
 
-[← 중간 지원](../05-mid-week-support/) · [AX 과제 브리프로 →](../07-ax-brief-workbook/)
+[← Harness-Lab](../04-harness-lab/) · [AX 과제 브리프로 →](../07-ax-brief-workbook/)

@@ -1,12 +1,12 @@
 ---
-title: 6.4 HR·안전·지원
-parent: 6. 부서별 영감 라이브러리
+title: 5.4 HR·안전·지원
+parent: 5. 부서별 영감 라이브러리
 nav_order: 4
 has_children: true
 permalink: /06-team-inspiration/hr-safety-support/
 ---
 
-# 6.4 HR·안전·지원
+# 5.4 HR·안전·지원
 {: .fs-7 }
 
 인사·안전환경·지원팀에서 참고할 수 있는 5개 하네스 사례.

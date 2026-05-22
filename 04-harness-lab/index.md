@@ -115,4 +115,4 @@ New session → 폴더 선택 → 새로 만들어진 폴더 선택 → 실행
 
 ---
 
-[← 하네스 구조](../03-harness-anatomy/) · [중간 지원으로 →](../05-mid-week-support/)
+[← 하네스 구조](../03-harness-anatomy/) · [영감 라이브러리로 →](../06-team-inspiration/)

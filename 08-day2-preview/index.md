@@ -1,6 +1,6 @@
 ---
-title: 8. Day 2 (5/27) 미리보기
-nav_order: 9
+title: 7. Day 2 (5/27) 미리보기
+nav_order: 8
 permalink: /08-day2-preview/
 ---
 
@@ -50,7 +50,7 @@ permalink: /08-day2-preview/
 6. 4주 동안 실제로 검증할 것
 7. 90일 AX 추진으로 연결할 조건
 
-각 항목의 구체 내용은 팀별 자유 구성입니다. 7개 항목에 대한 일반 안내는 [7. AX 과제 브리프 안내](../07-ax-brief-workbook/) 참고.
+각 항목의 구체 내용은 팀별 자유 구성입니다. 7개 항목에 대한 일반 안내는 [6. AX 과제 브리프 안내](../07-ax-brief-workbook/) 참고.
 
 ---
 
@@ -107,9 +107,8 @@ permalink: /08-day2-preview/
 
 ## 관련 정보
 
-- [7. AX 과제 브리프 안내](../07-ax-brief-workbook/) — 발표 7개 항목별 일반 안내
-- [5. 중간 지원 (5/21-26)](../05-mid-week-support/) — 1주차 진행 안내
-- [9. 부록](../09-appendix/) — 강의장·운영 채널·강사진
+- [6. AX 과제 브리프 안내](../07-ax-brief-workbook/) — 발표 7개 항목별 일반 안내
+- [8. 부록](../09-appendix/) — 강의장·운영 채널
 
 ---
 

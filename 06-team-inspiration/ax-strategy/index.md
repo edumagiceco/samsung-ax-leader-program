@@ -1,12 +1,12 @@
 ---
-title: 6.1 AX 추진·전략
-parent: 6. 부서별 영감 라이브러리
+title: 5.1 AX 추진·전략
+parent: 5. 부서별 영감 라이브러리
 nav_order: 1
 has_children: true
 permalink: /06-team-inspiration/ax-strategy/
 ---
 
-# 6.1 AX 추진·전략
+# 5.1 AX 추진·전략
 {: .fs-7 }
 
 AX G에서 참고할 수 있는 5개 하네스 사례.

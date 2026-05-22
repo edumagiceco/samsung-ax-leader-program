@@ -1,12 +1,12 @@
 ---
-title: 6.6 경영진단·KPI
-parent: 6. 부서별 영감 라이브러리
+title: 5.6 경영진단·KPI
+parent: 5. 부서별 영감 라이브러리
 nav_order: 6
 has_children: true
 permalink: /06-team-inspiration/evaluation-kpi/
 ---
 
-# 6.6 경영진단·KPI
+# 5.6 경영진단·KPI
 {: .fs-7 }
 
 경영진단 G에서 참고할 수 있는 5개 하네스 사례.

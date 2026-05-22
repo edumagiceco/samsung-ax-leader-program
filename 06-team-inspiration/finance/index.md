@@ -1,12 +1,12 @@
 ---
-title: 6.3 재경·재무·감사
-parent: 6. 부서별 영감 라이브러리
+title: 5.3 재경·재무·감사
+parent: 5. 부서별 영감 라이브러리
 nav_order: 3
 has_children: true
 permalink: /06-team-inspiration/finance/
 ---
 
-# 6.3 재경·재무·감사
+# 5.3 재경·재무·감사
 {: .fs-7 }
 
 재경팀에서 참고할 수 있는 5개 하네스 사례.
