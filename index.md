@@ -12,8 +12,8 @@ permalink: /
 5/20 Day 1을 마치신 분이 5/27 Day 2를 준비하실 때 **참고할 수 있는 정보를 모아둔 곳**입니다.
 {: .fs-6 .fw-300 }
 
-[전체 둘러보기 →](./01-day1-recap/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[공식 LMS (PBT)](https://pbt.co.kr/){: .btn .fs-5 .mb-4 .mb-md-0 }
+[PBT 바로가기 →](https://pbt.co.kr/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank" }
+[사이트 둘러보기](./01-day1-recap/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
