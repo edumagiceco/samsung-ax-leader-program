@@ -87,7 +87,7 @@ permalink: /01-day1-recap/
 | 본인 부서용 하네스 만들기 | [4. Harness-Lab ⭐](../04-harness-lab/) |
 | 부서별 참고 사례 둘러보기 | [5. 부서별 영감 라이브러리](../06-team-inspiration/) |
 | 5/27 발표 7개 항목 안내 | [6. AX 과제 브리프 안내](../07-ax-brief-workbook/) |
-| 5/27 일정·평가 정보 | [7. Day 2 (5/27) 미리보기](../08-day2-preview/) |
+| 강의장·운영 채널 안내 | [7. 부록](../09-appendix/) |
 
 ---
 

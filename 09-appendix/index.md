@@ -1,6 +1,6 @@
 ---
-title: 8. 부록
-nav_order: 9
+title: 7. 부록
+nav_order: 7
 permalink: /09-appendix/
 ---
 
@@ -85,4 +85,4 @@ permalink: /09-appendix/
 
 ---
 
-[← Day 2 미리보기](../08-day2-preview/) · [홈으로](../)
+[← AX 과제 브리프](../07-ax-brief-workbook/) · [홈으로](../)
