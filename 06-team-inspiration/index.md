@@ -71,4 +71,4 @@ permalink: /06-team-inspiration/
 
 ---
 
-[← Harness-Lab](../04-harness-lab/) · [AX 과제 브리프로 →](../07-ax-brief-workbook/)
+[← Harness-Lab](../04-harness-lab/) · [부록으로 →](../09-appendix/)

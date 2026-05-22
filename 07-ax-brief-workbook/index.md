@@ -1,6 +1,6 @@
 ---
-title: 6. AX 과제 브리프 안내
-nav_order: 7
+title: 7. AX 과제 브리프 안내
+nav_order: 8
 permalink: /07-ax-brief-workbook/
 ---
 
@@ -83,8 +83,8 @@ permalink: /07-ax-brief-workbook/
 
 - [4. Harness-Lab](../04-harness-lab/) — 본인 팀 도메인의 하네스를 생성할 수 있는 도구
 - [5. 부서별 영감 라이브러리](../06-team-inspiration/) — 부서별 참고할 만한 하네스 사례
-- [7. 부록](../09-appendix/) — 강의장·운영 채널
+- [6. 부록](../09-appendix/) — 강의장·운영 채널
 
 ---
 
-[← 영감 라이브러리](../06-team-inspiration/) · [부록으로 →](../09-appendix/)
+[← 부록](../09-appendix/) · [홈으로](../)

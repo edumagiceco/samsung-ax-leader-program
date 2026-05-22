@@ -111,7 +111,7 @@ New session → 폴더 선택 → 새로 만들어진 폴더 선택 → 실행
 ## 관련 정보
 
 - [3. 하네스 구조 이해](../03-harness-anatomy/) — `.claude/`, agents, skills 표준 구조
-- [1. Day 1 (5/20) 안내](../01-day1-recap/) — customer-support·real-estate-analyst 실행 명령어 카드
+- [1. Day 1 (5/20) 회고](../01-day1-recap/) — customer-support·real-estate-analyst 실행 명령어 카드
 
 ---
 

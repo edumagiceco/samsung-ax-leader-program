@@ -1,5 +1,5 @@
 ---
-title: 7. 부록
+title: 6. 부록
 nav_order: 7
 permalink: /09-appendix/
 ---
@@ -85,4 +85,4 @@ permalink: /09-appendix/
 
 ---
 
-[← AX 과제 브리프](../07-ax-brief-workbook/) · [홈으로](../)
+[← 영감 라이브러리](../06-team-inspiration/) · [AX 과제 브리프로 →](../07-ax-brief-workbook/)
