@@ -1,24 +1,29 @@
-# 삼성전자판매 AI 워크샵
+# 삼성전자판매 AX 리더 실전 프로그램 · 작업실
 
-매장 영업·CS·마케팅·운영 직군을 위한 **2일 하네스 실습 워크샵** 가이드 사이트.
+> 5/20 Day 1을 마친 AX 리더 실무진 26명이 5/27까지 본인 업무로 가져갈 하네스를 만드는 6일 동안의 작업실.
 
-> [revfactory/harness-100](https://github.com/revfactory/harness-100) 사례를 매장 직군 워크샵 형태로 재구성한 자료입니다.
+🌐 **사이트**: https://edumagiceco.github.io/samsung-ax-leader-program/
 
-## 구성
+## 정체성
 
-- **2일 워크샵**: Day 1 학습 + Day 2 프로젝트 발표
-- **5개 직군 트랙**: 영업 / CS / 마케팅 / 운영 / 보고
-- **19개 사례**: Top 5 풀실습 + 14개 데모 가이드
+- **프로그램**: 삼성전자판매 AX 리더 실전 프로그램 (Day 1: 5/20, Day 2: 5/27)
+- **대상**: 각 부서에서 AX 변화를 직접 이끌 실무진 26명 (선발된 6팀)
+- **운영**: magicecole / 강사진: 최재규·권상윤·안병희
+- **공식 LMS**: PBT (pbt.co.kr) — 이 사이트는 비공식 보조 자료
 
-## 사이트 구조
+## 사이트 구조 (9개 섹션)
 
 ```
-00-getting-started/   D-7 사전 설치 가이드 (Win/Mac, 트러블슈팅)
-01-harness-intro/     하네스 10분 입문
-02-tracks/            5개 직군 × 19개 사례
-03-projects/          Day 2 프로젝트 키트
-04-staff-guide/       운영진용 큐시트
-05-after-workshop/    30일 챌린지·FAQ
+1. Day 1 (5/20) 회고
+   - 오전 강의 5챕터 + Cowork 실습 2 + Code 실습 3 (customer-support · real-estate-analyst · harness-lab)
+2. 환경 다시 점검 (Win11)
+3. 하네스 구조 이해
+4. Harness-Lab — 본인 하네스 만들기 ⭐
+5. 중간 지원 (5/21-26) 일별 가이드
+6. 부서별 영감 라이브러리 (6 카테고리 × 5사례 = 30개)
+7. AX 과제 브리프 워크북 (8쪽)
+8. Day 2 (5/27) 미리보기 + 발표 7구조
+9. 부록 (강의장·운영 채널·강사진)
 ```
 
 ## 로컬 개발
@@ -31,12 +36,15 @@ bundle exec jekyll serve
 
 ## 배포
 
-`main` 브랜치에 push 하면 GitHub Actions가 자동으로 GitHub Pages에 배포합니다.
+`main` 브랜치에 push → GitHub Actions가 자동으로 Pages에 배포 (1-2분).
 
-배포 활성화 방법:
-1. GitHub 레포 Settings → Pages
-2. Source: **GitHub Actions** 선택
-3. 첫 push 후 약 1~2분 대기
+## 작업 진행 상황 (Phase)
+
+- ✅ Phase 1: 레포명 변경 + IA 재설계 + 새 톤 적용한 9개 섹션 스캐폴드
+- ⏳ Phase 2: Day 1 회고 풀콘텐츠 작성 (강의 5챕터 + Cowork 실습 2 + Code 실습 3)
+- ⏳ Phase 3: 중간 지원 6일 가이드 + AX 과제 워크북 8쪽 + Day 2 발표 템플릿
+- ⏳ Phase 4: 부서별 영감 라이브러리 30개 카드 (harness-100 재편)
+- ⏳ Phase 5: UI/UX 마감 + 운영 채널 URL + 배포 검증
 
 ## 라이선스
 

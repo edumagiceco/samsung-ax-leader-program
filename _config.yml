@@ -1,10 +1,10 @@
-title: 삼성전자판매 AI 워크샵
-description: 매장 직원을 위한 2일 하네스 실습 워크샵 가이드
+title: 삼성전자판매 AX 리더 실전 프로그램
+description: 5/20 Day 1을 마친 AX 리더가 5/27까지 본인 업무로 가져갈 하네스를 만드는 작업실
 remote_theme: just-the-docs/just-the-docs
 
 # 사이트 URL (배포 후 갱신)
 url: "https://edumagiceco.github.io"
-baseurl: "/sesc-ai-workshop"
+baseurl: "/samsung-ax-leader-program"
 
 # 검색
 search_enabled: true
@@ -24,7 +24,7 @@ color_scheme: light
 nav_sort: case_insensitive
 
 # 푸터
-footer_content: "© 2026 삼성전자판매 AI 워크샵 · MIT License"
+footer_content: "본 자료는 삼성전자판매 AX 리더 실전 프로그램의 비공식 보조 자료입니다. 공식 자료는 <a href='https://pbt.co.kr/'>PBT LMS</a>를 확인해주세요. · 제작 운영: <a href='https://magicecole.com'>magicecole</a>"
 
 # 마지막 수정 시간
 last_edit_timestamp: true
