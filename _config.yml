@@ -17,8 +17,11 @@ search:
   rel_url: true
   button: false
 
-# 색상
-color_scheme: light
+# 색상 — 삼성전자판매 브랜드 컬러 적용
+color_scheme: samsung
+
+# 코드 박스 복사 버튼
+enable_copy_code_button: true
 
 # 네비게이션 정렬 사용
 nav_sort: case_insensitive
@@ -33,10 +36,15 @@ last_edit_time_format: "%Y-%m-%d"
 # 페이지 하단 링크
 gh_edit_link: false
 
-# 보조 영역
+# 보조 영역 (우상단)
 aux_links:
+  "PBT LMS":
+    - "https://pbt.co.kr/"
+  "오픈채팅":
+    - "https://open.kakao.com/o/g0ligxvi"
   "GitHub":
-    - "https://github.com/"
+    - "https://github.com/edumagiceco/samsung-ax-leader-program"
+aux_links_new_tab: true
 
 # 마크다운
 markdown: kramdown

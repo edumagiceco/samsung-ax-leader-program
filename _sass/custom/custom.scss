@@ -1,0 +1,125 @@
+// 커스텀 스타일 — D-X 타임라인·홈 카드·푸터·모바일 보강
+
+// ── D-X 타임라인 (헤더 아래) ─────────────────────────
+.dx-timeline {
+  margin: 0 0 1.5rem 0;
+  padding: 0.85rem 1.25rem;
+  background: linear-gradient(90deg, #f5f7fa 0%, #eef2ff 100%);
+  border: 1px solid #e5e7eb;
+  border-radius: 0.5rem;
+  font-size: 0.85rem;
+  color: #1f2937;
+
+  &__label {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+    color: #0b1f5c;
+  }
+
+  &__bar {
+    position: relative;
+    height: 0.5rem;
+    background: #e5e7eb;
+    border-radius: 0.25rem;
+    overflow: hidden;
+  }
+
+  &__fill {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    background: linear-gradient(90deg, #1428a0 0%, #4b5fd4 100%);
+    border-radius: 0.25rem;
+    transition: width 0.3s ease;
+  }
+
+  &__marker {
+    position: absolute;
+    top: -3px;
+    width: 0.85rem;
+    height: 0.85rem;
+    background: #ffd60a;
+    border: 2px solid #1428a0;
+    border-radius: 50%;
+    transform: translateX(-50%);
+    box-shadow: 0 0 0 3px rgba(255, 214, 10, 0.25);
+  }
+
+  &__today {
+    margin-top: 0.5rem;
+    font-size: 0.78rem;
+    color: #4b5563;
+    text-align: center;
+  }
+}
+
+// ── 모바일에서 타임라인 ─────────────────────────────
+@media (max-width: 50rem) {
+  .dx-timeline {
+    margin: 0 0 1rem 0;
+    padding: 0.6rem 0.9rem;
+    font-size: 0.75rem;
+
+    &__label {
+      font-size: 0.78rem;
+    }
+  }
+}
+
+// ── 홈 카드 (3개 액션) 강조 ───────────────────────────
+.main-content h3 {
+  margin-top: 1.5rem;
+}
+
+// ── 푸터 보강 ─────────────────────────────────────
+.site-footer {
+  color: #6b7280;
+  font-size: 0.78rem;
+
+  a {
+    color: #1428a0;
+    text-decoration: underline;
+  }
+}
+
+// ── 코드 박스 가독성 ─────────────────────────────
+div.highlighter-rouge,
+figure.highlight {
+  border: 1px solid #e5e7eb;
+  background: #f5f7fa !important;
+
+  code {
+    background: transparent !important;
+  }
+}
+
+// ── 표 가독성 보강 ─────────────────────────────
+.main-content table {
+  th {
+    background: #f5f7fa;
+    color: #0b1f5c;
+    font-weight: 600;
+  }
+
+  td, th {
+    border-color: #e5e7eb;
+  }
+}
+
+// ── 콜아웃 박스 — Important ────────────────────
+.label-yellow,
+.callout.important {
+  background: #fef9c3;
+  border-left: 4px solid #ca8a04;
+}
+
+// ── 모바일 — 본문 좌우 여백 ─────────────────────
+@media (max-width: 50rem) {
+  .main-content {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}

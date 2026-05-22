@@ -1,0 +1,43 @@
+<!-- D-X 타임라인 (5/20 → 5/27) — 모든 페이지 상단 -->
+<div class="dx-timeline" aria-label="프로그램 진행 타임라인">
+  <div class="dx-timeline__label">
+    <span>5/20 (Day 1)</span>
+    <span>5/27 (Day 2)</span>
+  </div>
+  <div class="dx-timeline__bar">
+    <div class="dx-timeline__fill" id="dx-fill" style="width: 0%"></div>
+    <div class="dx-timeline__marker" id="dx-marker" style="left: 0%"></div>
+  </div>
+  <div class="dx-timeline__today" id="dx-today">오늘</div>
+</div>
+
+<script>
+  (function() {
+    var start = new Date('2026-05-20T00:00:00+09:00').getTime();
+    var end   = new Date('2026-05-27T18:00:00+09:00').getTime();
+    var now   = new Date().getTime();
+    var total = end - start;
+    var elapsed = now - start;
+    var pct = Math.max(0, Math.min(100, (elapsed / total) * 100));
+
+    var fill = document.getElementById('dx-fill');
+    var marker = document.getElementById('dx-marker');
+    var today = document.getElementById('dx-today');
+    if (fill) fill.style.width = pct + '%';
+    if (marker) marker.style.left = pct + '%';
+    if (today) {
+      var d = new Date();
+      var label;
+      if (now < start) {
+        var daysToStart = Math.ceil((start - now) / 86400000);
+        label = 'Day 1까지 ' + daysToStart + '일 남음';
+      } else if (now > end) {
+        label = '프로그램 종료';
+      } else {
+        var daysToEnd = Math.ceil((end - now) / 86400000);
+        label = '오늘 ' + (d.getMonth() + 1) + '/' + d.getDate() + ' · Day 2까지 ' + daysToEnd + '일';
+      }
+      today.textContent = label;
+    }
+  })();
+</script>
