@@ -81,6 +81,7 @@ permalink: /01-day1-recap/
 | 부서별 참고 사례 둘러보기 | [5. 부서별 영감 라이브러리](../06-team-inspiration/) |
 | 강의장·운영 채널 안내 | [6. 부록](../09-appendix/) |
 | 5/27 발표 7개 항목 안내 | [7. AX 과제 브리프 안내](../07-ax-brief-workbook/) |
+| 웹 UI 기초와 홈페이지 실습 | [8. 바이브코딩 UI](../08-vibecoding-ui/) |
 
 ---
 

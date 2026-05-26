@@ -42,6 +42,7 @@ permalink: /06-team-inspiration/
 
 5.1~5.6 카테고리별 대표 하네스를 하나씩 골라, 업무용 UI 프로토타입으로 구현하는 샘플 프롬프트를 제공합니다.
 
+- 처음 웹 UI를 접한다면 [8. 바이브코딩 UI](../08-vibecoding-ui/)에서 웹 기본 원리와 원페이지 홈페이지 실습을 먼저 진행합니다.
 - [5.7 UI 구현 실습 예시](./ui-implementation-guide/) — 6개 대표 하네스를 정적 HTML/CSS/JS UI로 만드는 복사용 프롬프트 모음
 
 ---

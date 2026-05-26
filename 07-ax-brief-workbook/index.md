@@ -84,7 +84,8 @@ permalink: /07-ax-brief-workbook/
 - [4. Harness-Lab](../04-harness-lab/) — 본인 팀 도메인의 하네스를 생성할 수 있는 도구
 - [5. 부서별 영감 라이브러리](../06-team-inspiration/) — 부서별 참고할 만한 하네스 사례
 - [6. 부록](../09-appendix/) — 강의장·운영 채널
+- [8. 바이브코딩 UI](../08-vibecoding-ui/) — 팀 AX 과제를 소개하는 간단한 홈페이지 제작 실습
 
 ---
 
-[← 부록](../09-appendix/) · [홈으로](../)
+[← 부록](../09-appendix/) · [바이브코딩 UI로 →](../08-vibecoding-ui/)
