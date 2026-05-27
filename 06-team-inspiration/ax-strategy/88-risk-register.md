@@ -49,6 +49,63 @@ nav_order: 3
 - 평가 척도가 일관되게 적용되었는가
 - 대응 전략이 실제 실행 책임자까지 명시되어 있는가
 
+## UI 미니 랩에서 보는 방식
+
+{: .important }
+수업에서 만드는 리스크 관리대장 UI는 **Claude Code 실행 결과를 실시간 API로 가져오는 완성 시스템**이 아닙니다. 먼저 더미 데이터로 화면 구조를 만들고, 실제 연동 단계에서는 Claude Code가 만든 JSON/Markdown 산출물을 읽어 화면에 표시하는 구조로 확장합니다.
+
+30분 미니 랩에서는 아래 흐름만 확인합니다.
+
+```text
+risk-register 하네스 사례
+  ↓
+더미 데이터 기반 웹 실행 화면
+  ↓
+리스크 목록, 근거, 검증 체크리스트 표시
+  ↓
+담당자가 승인 / 보류 / 수정 요청 선택
+```
+
+실제 PoC에서는 다음처럼 바뀝니다.
+
+```text
+Claude Code 실행
+  ↓
+risk-register-output.json 생성
+test-results.md 생성
+review-log.md 생성
+  ↓
+웹 UI가 산출물 파일을 읽어 표시
+  ↓
+사람 승인과 수정 요청 이력 기록
+```
+
+예시 산출물 구조:
+
+```json
+{
+  "project": "AX 전략 리스크 관리 보드",
+  "source": "Claude Code risk-register harness",
+  "riskItems": [
+    {
+      "category": "운영",
+      "description": "부서별 입력 기준 차이로 평가 일관성이 낮아질 수 있음",
+      "probability": 3,
+      "impact": 4,
+      "responseStrategy": "완화",
+      "owner": "AX 추진 담당자",
+      "approvalStatus": "확인 필요"
+    }
+  ],
+  "humanReview": {
+    "required": true,
+    "allowedActions": ["승인", "보류", "수정 요청"]
+  }
+}
+```
+
+핵심은 AI가 리스크를 최종 확정하는 것이 아니라, 담당자가 근거와 검증 기준을 보고 승인하는 구조를 화면으로 확인하는 것입니다.
+
 ## 원본 사례
 
 [harness-100/88-risk-register](https://github.com/revfactory/harness-100/tree/main/ko/88-risk-register)
